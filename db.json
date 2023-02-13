@@ -3443,7 +3443,7 @@
       "nutrition": [
         [
           "Energy",
-          "-",
+          "400",
           "Kcal"
         ],
         [
@@ -3519,7 +3519,7 @@
       "nutrition": [
         [
           "Energy",
-          "-",
+          "200",
           "Kcal"
         ],
         [
@@ -3594,7 +3594,7 @@
       "nutrition": [
         [
           "Energy",
-          "-",
+          "370",
           "Kcal"
         ],
         [
@@ -3669,7 +3669,7 @@
       "nutrition": [
         [
           "Energy",
-          "-",
+          "360",
           "Kcal"
         ],
         [
@@ -3745,7 +3745,7 @@
       "nutrition": [
         [
           "Energy",
-          "-",
+          "340",
           "Kcal"
         ],
         [
@@ -3821,7 +3821,7 @@
       "nutrition": [
         [
           "Energy",
-          "-",
+          "350",
           "Kcal"
         ],
         [
@@ -4197,7 +4197,7 @@
       "nutrition": [
         [
           "Energy",
-          "-",
+          "400",
           "Kcal"
         ],
         [
@@ -4272,7 +4272,7 @@
       "nutrition": [
         [
           "Energy",
-          "-",
+          "370",
           "Kcal"
         ],
         [
@@ -4347,7 +4347,7 @@
       "nutrition": [
         [
           "Energy",
-          "-",
+          "360",
           "Kcal"
         ],
         [
@@ -4422,7 +4422,7 @@
       "nutrition": [
         [
           "Energy",
-          "-",
+          "340",
           "Kcal"
         ],
         [
@@ -4497,7 +4497,7 @@
       "nutrition": [
         [
           "Energy",
-          "-",
+          "370",
           "Kcal"
         ],
         [
@@ -4713,23 +4713,28 @@
   "category": [
     {
       "id": 1,
-      "name": "SUN-DRIED"
+      "name": "SUN-DRIED",
+      "description": "Drying by exposure to the sun is the oldest, traditional, and most economical method which is called sun drying. It is well adapted for fruits and vegetables drying, like apricots, tomatoes, grapes, etc. Since No energy is required for the drying process, we call it GREEN Method as well. It is noticeable that poor-quality fruits cannot be used for natural drying to achieve a good high quality dried product. That is why AHT’s sun-dried products are the best in texture, taste, and appearance."
     },
     {
       "id": 2,
-      "name": "AIR-DRIED"
+      "name": "AIR/OVEN-DRIED",
+      "description": "Hot air drying/ cabinet drier is the most common drying method which we use for a different type of products. We use these practical methods in a huge conventional oven with a thermostatic setting for fruits, vegetables, and … . In comparison with other drying methods, it is a slow process depending on the product characteristic and the permissible drying temperature. As a result of the valuable experience gained during the last 60 years and our professional R&D advice, we achieved the best result based on our unique method and outstanding procedure."
     },
     {
       "id": 3,
-      "name": "FREEZE-DRIED"
+      "name": "FREEZE-DRIED",
+      "description": " Freeze-drying, also known as lyophilization, or cryodesiccation, is the most modern dehydration process typically used to preserve a perishable and sensitive material which were not possible to dry in other common methods.  Freeze-dried Fruit & Vegetables tend to retain most of their nutritional quality, taste, chemical composition, and aroma. Besides, compounds such as antioxidants, minerals and vitamins will concentrate more, which can have an undeniable effect on body health and supply required elements. AHT’s delicious freeze-dried Fruit & Vegetables are so light and crispy and also offer the taste and texture as well as fresh ones. This delicious nourishment does not require refrigeration and can last longer than any other dehydrating method. They can also be rehydrated very quickly, unlike other dehydrated foods. You can rehydrate them using either cold or hot water, so you can carry the food you need without worrying about having a way to keep the food cold or heat it."
     },
     {
       "id": 5,
-      "name": "NUTS"
+      "name": "NUTS",
+      "description": "Production, Processing, and packaging of all kinds of edible nuts/tree nuts is one of the most important elements of AHT’s Scope, which has been recently empowered, modernized, and updated. Our pre-shipment processes ensure that every pistachio customer receive is as flawless as the last. We are proud to have an IFS certificate which has resulted in a high satisfaction rate among customers. Having over five decades of experience in export has gained us the knowledge to thrive and succeed. We have exported a wide range of high-quality, Aflatoxin-free in-shelled Pistachios, Pistachio Paste, and Kernels. Thanks to over five decades of experience in export, we have gained the knowledge to thrive and succeed. We have exported a wide range of high-quality, Aflatoxin-free in-shelled Pistachios, Pistachio Paste, and Kernels. It should be noted that according to Regulation (EU) No. 1169/2011 of the European Parliament and Council dated October 25, 2011, pistachio is considered an allergen group. According to IFS Standards and allergen management principles, the best-required actions are followed to prevent any cross-contamination."
     },
     {
       "id": 6,
-      "name": "SAFFRON"
+      "name": "SAFFRON",
+      "description": "Aromatic strands of crocus sativus Saffron has been cultivated for more than millenniums in Iran and is the strategic agricultural products of Iran , which more than %90 of world production of this Treasure of Spice, comes from hear every year. Saffron which is also known as Red flower is used as a natural coloring & aromatic in foods, pastries, beverages, pharmaceutical, etc. Type of Saffron are: Saffron in cut filament (Negin,Sargol), Saffron in filament (Poushal.Dasteh), and Saffron in powder form"
     }
   ],
   "subcategory": [
@@ -4929,10 +4934,12 @@
   "events": [
     {
       "title": "Gulfood",
-      "subTitle": "Visit us at Gulfood, world's largest food exhibition Hal Shak Rashid | Stand No. R-P34",
-      "date": "20-24 FEB"
+      "subTitle": "\tVisit us at Gulfood, world's largest food exhibition Hal Shak Rashid | Stand No. R-P34",
+      "date": "20-24 FEB",
+      "id": 1
     },
     {
+      "id": 2,
       "title": "Gulfood",
       "subTitle": "Visit us at Gulfood, world's largest food exhibition Hal Shak Rashid | Stand No. R-P34",
       "date": "20-24 FEB"
@@ -4988,7 +4995,7 @@
       "message": "Hello World",
       "email": "zb.mv01@gmail.com",
       "subject": "Test",
-      "checked": false,
+      "checked": true,
       "createdAt": 1675917814431,
       "id": 3
     },
