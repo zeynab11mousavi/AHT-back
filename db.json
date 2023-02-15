@@ -3362,7 +3362,7 @@
       "thumbnail": [],
       "type": "bulk",
       "category": "3",
-      "subcategory": 1,
+      "subcategory": "6",
       "benefits": "<p>Will update soon ;)&nbsp;<br>&nbsp;</p>",
       "description": "The tomato is the edible, often red, berry of the nightshade Solanum lycopersicum, commonly known as a tomato plant. Freeze dried tomatoes are made from fresh natural tomatoes and delivers a rich source of lycopene, vitamin C, and many other protective nutrients. This versatile sliced dried Tomatos is made from all natural sweet tomatoes. This amazing product is simply 100% pure and natural freeze dried tomatoes. It can easily be made into a sweet tasting paste or sauce. Product obtained with fresh tomatoes, sorted and washed. After concentration of mashed tomatoes under vacuum, the powder is obtained by drying.",
       "nutrition": [
@@ -3513,7 +3513,7 @@
       "thumbnail": [],
       "type": "bulk",
       "category": "3",
-      "subcategory": 1,
+      "subcategory": "20",
       "benefits": "<p>Will update soon ;)</p>",
       "description": "Freeze Dried Broccoli is light and crisp, and still has all the same nutrition and taste of broccoli in its original fresh state. You can use them for any application that calls for chopped broccoli. The size of the broccoli pieces are great for side dishes, casseroles, stir fry, soups and more. The possibilities are endless! They are produced in a process where moisture is removed from the product using a very low temperature and a vacuum. Only about 3-5 percent moisture remains in the product at the time of packaging. The end product weight is reduced by over 90 percent, while the volume stays the same. This remarkable process concentrates the fresh taste, natural color, and texture of mushrooms. When rehydrated, the product will absorb the liquid and resemble fresh broccoli once again. The taste is great, and the nutritional value is preserved. Freeze drying provides natural and additive free vegetables to be stored effectively for long periods of time.",
       "nutrition": [
@@ -5003,9 +5003,9 @@
   },
   "users": [
     {
-      "name": "Alireza Gharghabi",
-      "username": "admin",
-      "password": "admin",
+      "name": "Zeynab",
+      "username": "aht123321",
+      "password": "aht123321",
       "role": "admin"
     }
   ],
