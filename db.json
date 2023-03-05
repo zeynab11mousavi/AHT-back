@@ -465,9 +465,7 @@
     },
     {
       "name": "PISTACHIO",
-      "image": [
-        "d266e77d141edce23f608a968f982d36"
-      ],
+      "image": [],
       "thumbnail": [],
       "type": "retail",
       "category": 5,
@@ -541,9 +539,7 @@
     },
     {
       "name": "PISTACHIO",
-      "image": [
-        "5bcdedb2ab96d61eb5cf91ecc4cdf7d3"
-      ],
+      "image": [],
       "thumbnail": [],
       "type": "retail",
       "category": "5",
@@ -617,9 +613,7 @@
     },
     {
       "name": "PISTACHIO",
-      "image": [
-        "6484e7ef95a0df547f64c482b634b9c1"
-      ],
+      "image": [],
       "thumbnail": [],
       "type": "retail",
       "category": "5",
@@ -1309,9 +1303,7 @@
     },
     {
       "name": "RAISINS",
-      "image": [
-        "9b66d086016344f3278dafef5002d139"
-      ],
+      "image": [],
       "thumbnail": [],
       "type": "retail",
       "category": "2",
@@ -1384,9 +1376,7 @@
     },
     {
       "name": "SULTANAS ",
-      "image": [
-        "320389ba71a1930571819ea280d30f7e"
-      ],
+      "image": [],
       "thumbnail": [],
       "type": "retail",
       "category": "2",
@@ -1460,7 +1450,7 @@
     {
       "name": "RAISINS",
       "image": [
-        "eeeccbb1b9137a32bb61cc78c73eab43"
+        "4009b08d3b99efad40387604b1873e10"
       ],
       "thumbnail": [],
       "type": "retail",
@@ -1535,7 +1525,7 @@
     {
       "name": "RAISINS",
       "image": [
-        "30156a75ccb89b5a524f2a7ef868e38e"
+        "e0ac36b7ca0ce1896de4ba5480448964"
       ],
       "thumbnail": [],
       "type": "retail",
@@ -1610,7 +1600,7 @@
     {
       "name": "FIGS",
       "image": [
-        "ec1e99dfe6cba985b6d3a0eefb98fea3"
+        "ba9fc0f6c35d2a0fdf45dc43d509bec0"
       ],
       "thumbnail": [],
       "type": "retail",
@@ -2603,11 +2593,11 @@
     {
       "name": "MAZAFATI DATES",
       "image": [
-        "f40088cd0f048d8f60c2cfc361d43967"
+        "f5936337ac7046d6da3d0e1912aac759"
       ],
       "thumbnail": [],
       "type": "retail",
-      "category": "5",
+      "category": "1",
       "subcategory": "13",
       "benefits": "<ul><li><strong>Cures Anemia</strong></li></ul><p>Anemia is characterized by unusually low quantity of red blood cells in the human body and is caused by the deficiency of iron. Dates contain an impressive level of iron which makes them the perfect home remedy for treating iron deficiency.</p><p>&nbsp;</p><ul><li><strong>Treatment of Diarrhea</strong></li></ul><p>Dates are effective in treating diarrhea as they contain potassium which helps in managing looseness of the intestine.</p><p>&nbsp;</p><ul><li><strong>Bone Health</strong></li></ul><p>Dates are useful in strengthening bones and curing painful diseases like osteoporosis. Minerals such as selenium, manganese, copper and magnesium found in Dates greatly contribute to healthy bone development and strength.</p><p>&nbsp;</p><ul><li><strong>Maintains Healthy Nervous System</strong></li></ul><p>Dates are a good source of vitamins which enhance the health and functionality of the human nervous system. The abundant potassium content of Dates also works to increase the speed and alertness of the brain</p><p>&nbsp;</p><ul><li><strong>Treatment of Allergies</strong></li></ul><p>Dates contain organic sulfur, which is rarely found in other foods. Organic sulfur has several health benefits, which include reduction of allergic reactions and seasonal allergies.</p><p>&nbsp;</p><ul><li><strong>Cures Anemia</strong></li></ul><p>Anemia is characterized by unusually low quantity of red blood cells in the human body and is caused by the deficiency of iron. Dates contain an impressive level of iron which makes them the perfect home remedy for treating iron deficiency.</p><p>&nbsp;</p><ul><li><strong>Dental Health</strong></li></ul><p>Dates contain fluorine, an important chemical element that inhibits tooth decay by removing plaque as well as strengthening the tooth enamel.</p><p>&nbsp;</p><ul><li><strong>Good for heart</strong></li></ul><p>Dates are a rich source of potassium which has been shown to reduce the risk of stroke and other heart diseases. They prevent heart disease, heart attack and stroke by reducing the levels of LDL cholesterol (bad cholesterol) in the body</p><p>&nbsp;</p><ul><li><strong>Maintenance of Healthy Skin</strong></li></ul><p>Dates are loaded with vitamin C and flavonoids, which can improve the elasticity of the skin and enrich the subcutaneous tissues, thus making skin tender and smooth.</p><p>&nbsp;</p><ul><li><strong>Anti-ageing Benefits</strong></li></ul><p>Dates are a rich source of antioxidants, which can effectively counter the harmful free radicals in the body, thus preventing premature ageing of skin. Vitamin C, in particular, helps to decrease the occurrence of wrinkles by resisting oxidation and preventing the accumulation of melanin inside the human body.</p><p>&nbsp;</p><ul><li><strong>Healthy Hair</strong></li></ul><p>Dates are abundant in vitamins, particularly vitamin B5, which is vital for the maintenance of healthy hair. Deficiency of this vitamin can cause hair problems like hair loss, brittle hair and split ends. Consumption of Dates can help minimize these problems.</p>",
       "description": "Iranian Dates in different types and size is a good source for Iron and Potassium full of Minerals and antioxidants.\nAHT’s Dates is available in Bulk and Consumer packs for direct consumption.\nAHT with more than 50 years’ experience in manufacturing and exporting dried fruit is here to supply all kinds of Dates and Date’s Products.",
@@ -2678,11 +2668,11 @@
     {
       "name": "PITTED DATES",
       "image": [
-        "8bf2691531e28bd1d3f1631fd695051c"
+        "49a6c759319d7147b26b086d2ea7a1d6"
       ],
       "thumbnail": [],
       "type": "retail",
-      "category": "5",
+      "category": "1",
       "subcategory": "13",
       "benefits": "<ul><li><strong>Cures Anemia</strong></li></ul><p>Anemia is characterized by unusually low quantity of red blood cells in the human body and is caused by the deficiency of iron. Dates contain an impressive level of iron which makes them the perfect home remedy for treating iron deficiency.</p><p>&nbsp;</p><ul><li><strong>Treatment of Diarrhea</strong></li></ul><p>Dates are effective in treating diarrhea as they contain potassium which helps in managing looseness of the intestine.</p><p>&nbsp;</p><ul><li><strong>Bone Health</strong></li></ul><p>Dates are useful in strengthening bones and curing painful diseases like osteoporosis. Minerals such as selenium, manganese, copper and magnesium found in Dates greatly contribute to healthy bone development and strength.</p><p>&nbsp;</p><ul><li><strong>Maintains Healthy Nervous System</strong></li></ul><p>Dates are a good source of vitamins which enhance the health and functionality of the human nervous system. The abundant potassium content of Dates also works to increase the speed and alertness of the brain</p><p>&nbsp;</p><ul><li><strong>Treatment of Allergies</strong></li></ul><p>Dates contain organic sulfur, which is rarely found in other foods. Organic sulfur has several health benefits, which include reduction of allergic reactions and seasonal allergies.</p><p>&nbsp;</p><ul><li><strong>Cures Anemia</strong></li></ul><p>Anemia is characterized by unusually low quantity of red blood cells in the human body and is caused by the deficiency of iron. Dates contain an impressive level of iron which makes them the perfect home remedy for treating iron deficiency.</p><p>&nbsp;</p><ul><li><strong>Dental Health</strong></li></ul><p>Dates contain fluorine, an important chemical element that inhibits tooth decay by removing plaque as well as strengthening the tooth enamel.</p><p>&nbsp;</p><ul><li><strong>Good for heart</strong></li></ul><p>Dates are a rich source of potassium which has been shown to reduce the risk of stroke and other heart diseases. They prevent heart disease, heart attack and stroke by reducing the levels of LDL cholesterol (bad cholesterol) in the body</p><p>&nbsp;</p><ul><li><strong>Maintenance of Healthy Skin</strong></li></ul><p>Dates are loaded with vitamin C and flavonoids, which can improve the elasticity of the skin and enrich the subcutaneous tissues, thus making skin tender and smooth.</p><p>&nbsp;</p><ul><li><strong>Anti-ageing Benefits</strong></li></ul><p>Dates are a rich source of antioxidants, which can effectively counter the harmful free radicals in the body, thus preventing premature ageing of skin. Vitamin C, in particular, helps to decrease the occurrence of wrinkles by resisting oxidation and preventing the accumulation of melanin inside the human body.</p><p>&nbsp;</p><ul><li><strong>Healthy Hair</strong></li></ul><p>Dates are abundant in vitamins, particularly vitamin B5, which is vital for the maintenance of healthy hair. Deficiency of this vitamin can cause hair problems like hair loss, brittle hair and split ends. Consumption of Dates can help minimize these problems.</p>",
       "description": "Iranian Dates in different types and size is a good source for Iron and Potassium full of Minerals and antioxidants.\nAHT’s Dates is available in Bulk and Consumer packs for direct consumption.\nAHT with more than 50 years’ experience in manufacturing and exporting dried fruit is here to supply all kinds of Dates and Date’s Products",
@@ -2753,11 +2743,11 @@
     {
       "name": "BAM DATES",
       "image": [
-        "701c947350b06d7d4d77e371e9a6dcc8"
+        "9d83824ff73bdeb7a39b02d2284877f4"
       ],
       "thumbnail": [],
       "type": "retail",
-      "category": "5",
+      "category": "1",
       "subcategory": "13",
       "benefits": "<ul><li><strong>Cures Anemia</strong></li></ul><p>Anemia is characterized by unusually low quantity of red blood cells in the human body and is caused by the deficiency of iron. Dates contain an impressive level of iron which makes them the perfect home remedy for treating iron deficiency.</p><p>&nbsp;</p><ul><li><strong>Treatment of Diarrhea</strong></li></ul><p>Dates are effective in treating diarrhea as they contain potassium which helps in managing looseness of the intestine.</p><p>&nbsp;</p><ul><li><strong>Bone Health</strong></li></ul><p>Dates are useful in strengthening bones and curing painful diseases like osteoporosis. Minerals such as selenium, manganese, copper and magnesium found in Dates greatly contribute to healthy bone development and strength.</p><p>&nbsp;</p><ul><li><strong>Maintains Healthy Nervous System</strong></li></ul><p>Dates are a good source of vitamins which enhance the health and functionality of the human nervous system. The abundant potassium content of Dates also works to increase the speed and alertness of the brain</p><p>&nbsp;</p><ul><li><strong>Treatment of Allergies</strong></li></ul><p>Dates contain organic sulfur, which is rarely found in other foods. Organic sulfur has several health benefits, which include reduction of allergic reactions and seasonal allergies.</p><p>&nbsp;</p><ul><li><strong>Cures Anemia</strong></li></ul><p>Anemia is characterized by unusually low quantity of red blood cells in the human body and is caused by the deficiency of iron. Dates contain an impressive level of iron which makes them the perfect home remedy for treating iron deficiency.</p><p>&nbsp;</p><ul><li><strong>Dental Health</strong></li></ul><p>Dates contain fluorine, an important chemical element that inhibits tooth decay by removing plaque as well as strengthening the tooth enamel.</p><p>&nbsp;</p><ul><li><strong>Good for heart</strong></li></ul><p>Dates are a rich source of potassium which has been shown to reduce the risk of stroke and other heart diseases. They prevent heart disease, heart attack and stroke by reducing the levels of LDL cholesterol (bad cholesterol) in the body</p><p>&nbsp;</p><ul><li><strong>Maintenance of Healthy Skin</strong></li></ul><p>Dates are loaded with vitamin C and flavonoids, which can improve the elasticity of the skin and enrich the subcutaneous tissues, thus making skin tender and smooth.</p><p>&nbsp;</p><ul><li><strong>Anti-ageing Benefits</strong></li></ul><p>Dates are a rich source of antioxidants, which can effectively counter the harmful free radicals in the body, thus preventing premature ageing of skin. Vitamin C, in particular, helps to decrease the occurrence of wrinkles by resisting oxidation and preventing the accumulation of melanin inside the human body.</p><p>&nbsp;</p><ul><li><strong>Healthy Hair</strong></li></ul><p>Dates are abundant in vitamins, particularly vitamin B5, which is vital for the maintenance of healthy hair. Deficiency of this vitamin can cause hair problems like hair loss, brittle hair and split ends. Consumption of Dates can help minimize these problems.</p>",
       "description": "Iranian Dates in different types and size is a good source for Iron and Potassium full of Minerals and antioxidants.\nAHT’s Dates is available in Bulk and Consumer packs for direct consumption.\nAHT with more than 50 years’ experience in manufacturing and exporting dried fruit is here to supply all kinds of Dates and Date’s Products",
@@ -2828,11 +2818,11 @@
     {
       "name": "DATES",
       "image": [
-        "d88c0c8e5424c5c2bd8e29571705ebd9"
+        "20b0a340b9690ca65690ccc6114f5b11"
       ],
       "thumbnail": [],
       "type": "retail",
-      "category": "5",
+      "category": "1",
       "subcategory": "13",
       "benefits": "<ul><li><strong>Cures Anemia</strong></li></ul><p>Anemia is characterized by unusually low quantity of red blood cells in the human body and is caused by the deficiency of iron. Dates contain an impressive level of iron which makes them the perfect home remedy for treating iron deficiency.</p><p>&nbsp;</p><ul><li><strong>Treatment of Diarrhea</strong></li></ul><p>Dates are effective in treating diarrhea as they contain potassium which helps in managing looseness of the intestine.</p><p>&nbsp;</p><ul><li><strong>Bone Health</strong></li></ul><p>Dates are useful in strengthening bones and curing painful diseases like osteoporosis. Minerals such as selenium, manganese, copper and magnesium found in Dates greatly contribute to healthy bone development and strength.</p><p>&nbsp;</p><ul><li><strong>Maintains Healthy Nervous System</strong></li></ul><p>Dates are a good source of vitamins which enhance the health and functionality of the human nervous system. The abundant potassium content of Dates also works to increase the speed and alertness of the brain</p><p>&nbsp;</p><ul><li><strong>Treatment of Allergies</strong></li></ul><p>Dates contain organic sulfur, which is rarely found in other foods. Organic sulfur has several health benefits, which include reduction of allergic reactions and seasonal allergies.</p><p>&nbsp;</p><ul><li><strong>Cures Anemia</strong></li></ul><p>Anemia is characterized by unusually low quantity of red blood cells in the human body and is caused by the deficiency of iron. Dates contain an impressive level of iron which makes them the perfect home remedy for treating iron deficiency.</p><p>&nbsp;</p><ul><li><strong>Dental Health</strong></li></ul><p>Dates contain fluorine, an important chemical element that inhibits tooth decay by removing plaque as well as strengthening the tooth enamel.</p><p>&nbsp;</p><ul><li><strong>Good for heart</strong></li></ul><p>Dates are a rich source of potassium which has been shown to reduce the risk of stroke and other heart diseases. They prevent heart disease, heart attack and stroke by reducing the levels of LDL cholesterol (bad cholesterol) in the body</p><p>&nbsp;</p><ul><li><strong>Maintenance of Healthy Skin</strong></li></ul><p>Dates are loaded with vitamin C and flavonoids, which can improve the elasticity of the skin and enrich the subcutaneous tissues, thus making skin tender and smooth.</p><p>&nbsp;</p><ul><li><strong>Anti-ageing Benefits</strong></li></ul><p>Dates are a rich source of antioxidants, which can effectively counter the harmful free radicals in the body, thus preventing premature ageing of skin. Vitamin C, in particular, helps to decrease the occurrence of wrinkles by resisting oxidation and preventing the accumulation of melanin inside the human body.</p><p>&nbsp;</p><ul><li><strong>Healthy Hair</strong></li></ul><p>Dates are abundant in vitamins, particularly vitamin B5, which is vital for the maintenance of healthy hair. Deficiency of this vitamin can cause hair problems like hair loss, brittle hair and split ends. Consumption of Dates can help minimize these problems.</p>",
       "description": "Iranian Dates in different types and size is a good source for Iron and Potassium full of Minerals and antioxidants.\nAHT’s Dates is available in Bulk and Consumer packs for direct consumption.\nAHT with more than 50 years’ experience in manufacturing and exporting dried fruit is here to supply all kinds of Dates and Date’s Products",
@@ -2903,11 +2893,11 @@
     {
       "name": "PITTED DATES",
       "image": [
-        "3a35e313cfeaeb804a994ed9e03b495d"
+        "4023508653cc11af254083903641e010"
       ],
       "thumbnail": [],
       "type": "retail",
-      "category": "5",
+      "category": "1",
       "subcategory": "13",
       "benefits": "<ul><li><strong>Cures Anemia</strong></li></ul><p>Anemia is characterized by unusually low quantity of red blood cells in the human body and is caused by the deficiency of iron. Dates contain an impressive level of iron which makes them the perfect home remedy for treating iron deficiency.</p><p>&nbsp;</p><ul><li><strong>Treatment of Diarrhea</strong></li></ul><p>Dates are effective in treating diarrhea as they contain potassium which helps in managing looseness of the intestine.</p><p>&nbsp;</p><ul><li><strong>Bone Health</strong></li></ul><p>Dates are useful in strengthening bones and curing painful diseases like osteoporosis. Minerals such as selenium, manganese, copper and magnesium found in Dates greatly contribute to healthy bone development and strength.</p><p>&nbsp;</p><ul><li><strong>Maintains Healthy Nervous System</strong></li></ul><p>Dates are a good source of vitamins which enhance the health and functionality of the human nervous system. The abundant potassium content of Dates also works to increase the speed and alertness of the brain</p><p>&nbsp;</p><ul><li><strong>Treatment of Allergies</strong></li></ul><p>Dates contain organic sulfur, which is rarely found in other foods. Organic sulfur has several health benefits, which include reduction of allergic reactions and seasonal allergies.</p><p>&nbsp;</p><ul><li><strong>Cures Anemia</strong></li></ul><p>Anemia is characterized by unusually low quantity of red blood cells in the human body and is caused by the deficiency of iron. Dates contain an impressive level of iron which makes them the perfect home remedy for treating iron deficiency.</p><p>&nbsp;</p><ul><li><strong>Dental Health</strong></li></ul><p>Dates contain fluorine, an important chemical element that inhibits tooth decay by removing plaque as well as strengthening the tooth enamel.</p><p>&nbsp;</p><ul><li><strong>Good for heart</strong></li></ul><p>Dates are a rich source of potassium which has been shown to reduce the risk of stroke and other heart diseases. They prevent heart disease, heart attack and stroke by reducing the levels of LDL cholesterol (bad cholesterol) in the body</p><p>&nbsp;</p><ul><li><strong>Maintenance of Healthy Skin</strong></li></ul><p>Dates are loaded with vitamin C and flavonoids, which can improve the elasticity of the skin and enrich the subcutaneous tissues, thus making skin tender and smooth.</p><p>&nbsp;</p><ul><li><strong>Anti-ageing Benefits</strong></li></ul><p>Dates are a rich source of antioxidants, which can effectively counter the harmful free radicals in the body, thus preventing premature ageing of skin. Vitamin C, in particular, helps to decrease the occurrence of wrinkles by resisting oxidation and preventing the accumulation of melanin inside the human body.</p><p>&nbsp;</p><ul><li><strong>Healthy Hair</strong></li></ul><p>Dates are abundant in vitamins, particularly vitamin B5, which is vital for the maintenance of healthy hair. Deficiency of this vitamin can cause hair problems like hair loss, brittle hair and split ends. Consumption of Dates can help minimize these problems.</p>",
       "description": "Iranian Dates in different types and size is a good source for Iron and Potassium full of Minerals and antioxidants.\nAHT’s Dates is available in Bulk and Consumer packs for direct consumption.\nAHT with more than 50 years’ experience in manufacturing and exporting dried fruit is here to supply all kinds of Dates and Date’s Products",
@@ -4480,9 +4470,9 @@
       "id": 122
     },
     {
-      "name": "ORANGE",
+      "name": "ORANGE ",
       "image": [
-        "04f46b9c73936a1784d61f65d154cf03"
+        "e047aa946085e588725e767c5ed26a6a"
       ],
       "thumbnail": [],
       "type": "retail",
@@ -4705,9 +4695,9 @@
       "id": 125
     },
     {
-      "name": "STRAWBERRY",
+      "name": "STRAWBERRY ",
       "image": [
-        "071110257578eba99eba005728191037"
+        "6af0a893b7ca2096154531fa16c77e2f"
       ],
       "thumbnail": [],
       "type": "retail",
