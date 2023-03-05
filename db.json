@@ -691,10 +691,9 @@
     {
       "name": "SAFFRON",
       "image": [
-        "171ecb06b69120c088f279e26ed4ada9",
-        "4008de3412b4072a8edf074493841ee0",
-        "4f7a8f3e70065153e7c3b0676e73ebed",
-        "4a6c75bcc184f46b51679cd2e6ada2be"
+        "aac436fbae85c0cc5a975780d6195f0b",
+        "5aed82ed9f99ff5a7bd1879bd18840a2",
+        "5d0ade1f3a94a9dd8ded489261cb5165"
       ],
       "thumbnail": [],
       "type": "bulk",
@@ -3127,7 +3126,7 @@
     {
       "name": "ZUCCHINI",
       "image": [
-        "ced4a7d23e9924ca23fb00e17a462cd0"
+        "fdf411e1f1c445645d641e9e73d99b28"
       ],
       "thumbnail": [],
       "type": "bulk",
@@ -3202,7 +3201,7 @@
     {
       "name": "MUSHROOMS",
       "image": [
-        "1290c8f5a4ae1d6a15414115979ca811"
+        "13670b90dd43d237fef565d6c49ca191"
       ],
       "thumbnail": [],
       "type": "bulk",
@@ -3277,8 +3276,7 @@
     {
       "name": "OKRAS",
       "image": [
-        "b51be1a738608363342b06352137244e",
-        "c293d486f30bf2c53524a79a00e51fcb"
+        "90cee920144225945dabc482db58b2e0"
       ],
       "thumbnail": [],
       "type": "bulk",
@@ -3353,8 +3351,7 @@
     {
       "name": "TOMATOS",
       "image": [
-        "fb961b6ae7e647abc9e67c809416b50a",
-        "9a7ac08d290e047a6674b721e0202e1a"
+        "9d86d49b3c566d7078e6a13fbfe844e6"
       ],
       "thumbnail": [],
       "type": "bulk",
@@ -3429,7 +3426,7 @@
     {
       "name": "GREEN BEANS",
       "image": [
-        "addc9c24366125e41c41fb50ab674a0c"
+        "b65afbfa9862c9f74d42723dd6af2d79"
       ],
       "thumbnail": [],
       "type": "bulk",
@@ -3579,7 +3576,7 @@
     {
       "name": "PEACHES",
       "image": [
-        "91a98080ba8da41355065833e3f5416f"
+        "a94cd563ff3984df18ab4a4da8856acb"
       ],
       "thumbnail": [],
       "type": "bulk",
@@ -3654,7 +3651,7 @@
     {
       "name": "APPLE",
       "image": [
-        "808d2a3195422d9aa4405d527a3c4467"
+        "91b10a3648d11dcf786278e0aba1ba13"
       ],
       "thumbnail": [],
       "type": "bulk",
@@ -3729,7 +3726,7 @@
     {
       "name": "KIWI",
       "image": [
-        "567fe2ce8c02ebabef67c57b8be06514"
+        "3a7c11299ed6aa1292e86ae70495d248"
       ],
       "thumbnail": [],
       "type": "bulk",
@@ -3804,7 +3801,7 @@
     {
       "name": "APRICOTS",
       "image": [
-        "4a3ecd3802564a7806955fa42c8ed611"
+        "7e9c9a147c4d57f37f6b15c7bf16f9a4"
       ],
       "thumbnail": [],
       "type": "bulk",
@@ -4778,7 +4775,7 @@
     {
       "name": "STRAWBERRY",
       "image": [
-        "d352805fd7603006a3b16df26faa506e"
+        "9580b5d447a9063839bba891114fd792"
       ],
       "thumbnail": [],
       "type": "bulk",
@@ -4852,7 +4849,7 @@
     {
       "name": "BANANA",
       "image": [
-        "8f80f058f2ae596cfdbe85b71f54ebf9"
+        "2d17d92c6f3e6bf27db09784f9c571a5"
       ],
       "thumbnail": [],
       "type": "bulk",
@@ -4926,7 +4923,7 @@
     {
       "name": "BELL PEPPER",
       "image": [
-        "2fd820bde546917db9c7d9497ba82aae"
+        "e2909b017adfa66983338dc870a996bb"
       ],
       "thumbnail": [],
       "type": "bulk",
