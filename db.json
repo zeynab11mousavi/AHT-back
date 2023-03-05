@@ -4707,6 +4707,7 @@
     {
       "name": "STRAWBERRY",
       "image": [
+        "aa9ae2be1289535e67baadd677a5de35"
       ],
       "thumbnail": [],
       "type": "retail",
@@ -4780,6 +4781,7 @@
     {
       "name": "STRAWBERRY",
       "image": [
+        "d352805fd7603006a3b16df26faa506e"
       ],
       "thumbnail": [],
       "type": "bulk",
@@ -4853,6 +4855,7 @@
     {
       "name": "BANANA",
       "image": [
+        "8f80f058f2ae596cfdbe85b71f54ebf9"
       ],
       "thumbnail": [],
       "type": "bulk",
@@ -4921,12 +4924,12 @@
           "mg"
         ]
       ],
-      "createdAt": 1677311192995,
       "id": 128
     },
     {
       "name": "BELL PEPPER",
       "image": [
+        "2fd820bde546917db9c7d9497ba82aae",
       ],
       "thumbnail": [],
       "type": "bulk",
@@ -5113,8 +5116,7 @@
     {
       "id": 22,
       "name": "Onion"
-    }
-    ,
+    },
     {
       "id": 23,
       "name": "green onion"
@@ -5234,7 +5236,7 @@
       "subTitle": "Visit us at Gulfood, world's largest food exhibition Hal Shak Rashid | Stand No. R-P34",
       "date": "19-23 FEB",
       "image": [
-        "a1f01f42b86a7a610d73db8de16531a3"
+        "dc13a06e5f7ae837a6fd6b71156b11f8"
       ],
       "id": 1
     }
