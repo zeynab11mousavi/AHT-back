@@ -3801,7 +3801,9 @@
     {
       "name": "APRICOTS",
       "image": [
-        "7e9c9a147c4d57f37f6b15c7bf16f9a4"
+        "7e9c9a147c4d57f37f6b15c7bf16f9a4",
+        "7e130bed88fbca0f4c10deb5bcae27a4"
+
       ],
       "thumbnail": [],
       "type": "bulk",
@@ -3877,7 +3879,8 @@
       "name": "ZUCCHINI",
       "image": [
         "088863276b99fa24a2807c911828f9ff",
-        "93f92eed123a61b44fa67fe5deb30048"
+        "93f92eed123a61b44fa67fe5deb30048",
+        "88b45e5c84ef267e56e7d27f0912c483"
       ],
       "thumbnail": [],
       "type": "retail",
@@ -3953,7 +3956,8 @@
       "name": "MUSHROOMS",
       "image": [
         "9ea246cb03df3a9e350a4aefa2a210fa",
-        "46c9e3fea76a98f165bb701a50f3d8f1"
+        "46c9e3fea76a98f165bb701a50f3d8f1",
+        "b52a85ec0558e89a9091e670f0150d83"
       ],
       "thumbnail": [],
       "type": "retail",
@@ -4105,7 +4109,9 @@
     {
       "name": "TOMATOS",
       "image": [
-        "b22eed9003104fc5f80b7f5ce2d33376"
+        "b22eed9003104fc5f80b7f5ce2d33376",
+        "b2faec1d75ef5729f48b5737b9c9966f",
+        "e74519072bcc7204554bededc9b63fbb"
       ],
       "thumbnail": [],
       "type": "retail",
@@ -4256,7 +4262,9 @@
     {
       "name": "PEACHES",
       "image": [
-        "651ba7c162af767e296db171c4cb5e7d"
+        "651ba7c162af767e296db171c4cb5e7d",
+        "f4a9a6bbd2712b886ab5835bb1a0425b",
+        "738e21f9d1b5003faa5c133fc5e4cc6b"
       ],
       "thumbnail": [],
       "type": "retail",
@@ -4332,7 +4340,8 @@
       "name": "APPLE",
       "image": [
         "61fce8c3de4d96407bf73a752591da72",
-        "ab387ad28d385bd64790b9be179d8d3b"
+        "ab387ad28d385bd64790b9be179d8d3b",
+        "60ccc307139fac8903d084a765d9a87c"
       ],
       "thumbnail": [],
       "type": "retail",
@@ -4485,7 +4494,8 @@
       "image": [
         "e047aa946085e588725e767c5ed26a6a",
         "a4b7f4459ce86e8bb58e096547e7cda8",
-        "f94d63f4c871d75e2b7cc944a2b9bda4"
+        "f94d63f4c871d75e2b7cc944a2b9bda4",
+        "4aae25f5ce95d245bd01784fc17ee72b"
       ],
       "thumbnail": [],
       "type": "retail",
@@ -5011,6 +5021,82 @@
         ]
       ],
       "id": 129
+    },
+    {
+      "name": "APRICOTS",
+      "image": [
+        "1078a95a1cd8a36b46e59f1c8bab41d9",
+        "7e130bed88fbca0f4c10deb5bcae27a4"
+      ],
+      "thumbnail": [],
+      "type": "retail",
+      "category": "3",
+      "subcategory": "12",
+      "benefits": "<p>Will update soon ;)</p>",
+      "description": "Apricots (Prunus armeniaca) are well-loved due to they're sour, but sweet taste. They have a creamy, floral character and a mixture of fresh and tropical fruit notes – all of which is captured when they are freeze-dried.\n\nFreeze-dried apricot is ideal for both sweet and savoury applications. Our freeze-dried apricots are high-quality freeze-dried whi ch are packaged carefully by hand for optimum quality, care, and freshness.\n\nFreeze-dried apricots bright yellow colour looks great in buttercream and confectionary, and the ingredient also works well as a component in dishes such as a coronation-style dry marinade for chicken. Perfect pairings include spices, such as cinnamon and cumin, as well as chocolate.",
+      "nutrition": [
+        [
+          "Energy",
+          "350",
+          "Kcal"
+        ],
+        [
+          "Carbohydrates",
+          "80",
+          "g"
+        ],
+        [
+          "Protein",
+          "10",
+          "g"
+        ],
+        [
+          "Saturated Fat",
+          "0",
+          "g"
+        ],
+        [
+          "Trans Fat",
+          "0",
+          "g"
+        ],
+        [
+          "Total Fat",
+          "0",
+          "g"
+        ],
+        [
+          "Sugars",
+          "70",
+          "g"
+        ],
+        [
+          "Cholesterol",
+          "0",
+          "mg"
+        ],
+        [
+          "Dietary Fiber",
+          "10",
+          "g"
+        ],
+        [
+          "Sodium",
+          "0",
+          "mg"
+        ],
+        [
+          "Potassium",
+          "0",
+          "mg"
+        ],
+        [
+          "Calcium",
+          "0",
+          "mg"
+        ]
+      ],
+      "id": 130
     }
   ],
   "category": [
